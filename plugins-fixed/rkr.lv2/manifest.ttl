@@ -182,7 +182,7 @@
          a lv2:Plugin, lv2:DistortionPlugin ;
          lv2:binary <rkrlv2.so> ;
          rdfs:seeAlso <stomp.ttl> , <modguis.ttl> .
- 34 
+ #34 
 <http://rakarrack.sourceforge.net/effects.html#StompBox_fuzz>
         a lv2:Plugin, lv2:DistortionPlugin ;
         lv2:binary <rkrlv2.so> ;
